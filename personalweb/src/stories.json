@@ -1,0 +1,34 @@
+[
+        {
+            "id": "1",
+            "author": "EMYU",
+            "title": "Placeholder One",
+            "authorpicture": "in-progress",
+            "datereleased": "Monday, October 7th 2024",
+            "content": "Hi! This is a placeholder for now!"
+        },
+        {
+            "id": "2",
+            "author": "EMYU",
+            "title": "Placeholder Two",
+            "author-picture": "in-progress",
+            "date released": "Monday, October 7th 2024",
+            "content": "Hi! This is a placeholder for now"
+        },
+        {
+            "id": "3",
+            "author": "EMYU",
+            "title": "Placeholder Three",
+            "author-picture": "in-progress",
+            "date released": "Monday, October 7th 2024",
+            "content": "Hi! This is a placeholder for now"
+        },
+        {
+            "id": "4",
+            "author": "EMYU",
+            "title": "Placeholder Four",
+            "author-picture": "in-progress",
+            "date released": "Monday, October 7th 2024",
+            "content": "Hi! This is a placeholder for now"
+        }
+]

@@ -11,9 +11,6 @@ const Footnote = () => {
                             EMYU
                         </NavLink>  
 
-
-
-
                             <div className='md:ml-auto mr-px '> 
                                 <div className="flex space-x-2">
                                 <NavLink to='https://github.com/emyutech' className='text-white font-thin text-sm '>

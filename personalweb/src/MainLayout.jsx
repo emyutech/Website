@@ -7,11 +7,13 @@ import Footnote from './components/Footnote';
 const MainLayout = () => {
     return (
         
-            <div className='bg-zinc-800'>
-                    <Navbar/>
-                    <Outlet/>
-                    <Footnote/>
-            </div>
+        <div className='bg-zinc-800 flex flex-col min-h-screen'>
+                <Navbar/>  
+                <Outlet/>
+                <div className='mt-auto' >
+                <Footnote/>
+                </div>
+        </div>
         
     );
 };
